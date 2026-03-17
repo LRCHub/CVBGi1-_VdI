@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Back in the Day (Remix)",
+  "base_artist": "Ahmad Lewis",
+  "createdAt": "2026-03-17T23:47:03.416915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back in the Day (Remix)",
+      "artist": "Ahmad",
+      "has_synced": true,
+      "path": "select/01_Back_in_the_Day_(Remix)_Ahmad.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back In The Day (Remix)",
+      "artist": "Ahmad",
+      "has_synced": false,
+      "path": "select/02_Back_In_The_Day_(Remix)_Ahmad.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back in the Day (Remix)",
+      "artist": "Ahmad Lewis",
+      "has_synced": true,
+      "path": "select/03_Back_in_the_Day_(Remix)_Ahmad_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back in the Day [Remix]",
+      "artist": "Ahmad",
+      "has_synced": true,
+      "path": "select/04_Back_in_the_Day_[Remix]_Ahmad.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back in the Day (Remix)",
+      "artist": "Ahmad Lewis",
+      "has_synced": true,
+      "path": "select/05_Back_in_the_Day_(Remix)_Ahmad_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back in the Day (remix)",
+      "artist": "Ahmad",
+      "has_synced": true,
+      "path": "select/06_Back_in_the_Day_(remix)_Ahmad.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back In the Day - Remix",
+      "artist": "Ahmad Lewis",
+      "has_synced": true,
+      "path": "select/07_Back_In_the_Day_-_Remix_Ahmad_Lewis.lrc"
+    }
+  ]
+}
